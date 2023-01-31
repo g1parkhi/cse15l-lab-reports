@@ -36,6 +36,7 @@ I followed the following substeps:
  -> Refer to the following link for instructions: [Link]( https://sdacs.ucsd.edu/~icc/index.php)
 3. Reset your password.
  -> Refer to the following link for instructions: [Link]( [https://sdacs.ucsd.edu/~icc/index.php](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit))
+ 
     It's a tutorial for resetting your password.
 4. In Terminal, type in the command: `$ ssh cs15lwi23auf@ieng6.ucsd.edu`
  -> 'auf' in the command would not be for all incoming CSE 15L students. 
@@ -55,8 +56,11 @@ I followed the following substeps:
 I tried `cd ~`, `cd`, `ls -lat`, `cp`, `cat`, `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`, and `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`.
 
 Here are what some of these commands do:
-'cd~': sets directory to be the home directory  
+
+'cd~': sets directory to be the home directory 
+
 'cd': used to move among directories
+
 'cp': as it seems like an abbreviation for 'copy', it copies the files or directories
 
 I also tried `ls -lat` and `ls home/linux/ieng6/cs15lwi23/cs15lwi23aui`.
