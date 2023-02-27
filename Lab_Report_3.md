@@ -104,7 +104,7 @@ The result is displayed above as expected.
 Reference: 'man grep' command, ChatGPT
 
 
-## Option 3 : **-c**
+## Option 3 : **-i**
 > 2 examples of using **-i** on files and directories from ./written_2
 
 ```
