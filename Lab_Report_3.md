@@ -39,7 +39,7 @@ it only prints out the lines and doesn't display the filenames (which would be H
 Usage)
 The usage of option '-h' can be better explained by comparison to '-H' option.
 '-H' option forces the program to always print filename headers (i.e. filenames) with output lines.
-If I replaced the the option to '-H' in example 2, the following result comes out.
+If I replace the option to '-H' in example 2, the following result comes out.
 ```
 # Command
 grep -H "Akko Beach" ./written_2/travel_guides/berlitz1/*  
