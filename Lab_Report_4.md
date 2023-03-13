@@ -24,7 +24,7 @@ I typed in `git clone git@github.com:g1parkhi/lab7.git` to clone my fork of the 
 * As shown on the image above, the cloning was successful.
 
 
-## Step 6: > Run the tests, demonstrating that they fail
+## Step 6: Run the tests, demonstrating that they fail
 
 ![Image](42.png)
 I typed in `cd lab7` first to change the current working directory to lab7.
