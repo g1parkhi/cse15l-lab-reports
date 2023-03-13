@@ -40,6 +40,7 @@ to compile and run the tests.
 ## Step 7: Edit the code file to fix the failing test
 
 ![Image](44.png)
+
 I typed in `vim ListExamples.java` in order to edit the code file.
 (I typed until `vim L` and used `<tab>` to auto-complete the `ListExamples` part)
 
