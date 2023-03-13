@@ -5,7 +5,8 @@
 ![Image](41.png)
 As shown on the image above, I logged into ieng6 account.
 
-* I ran the `ssh cs15lwi23auf@ieng6.ucsd.edu` command as usual and pressed `<enter>` to do so.
+* I ran the `ssh cs15lwi23auf@ieng6.ucsd.edu` command as usual and pressed `<enter>` to log in.
+* Since I generated SSH Keys for ieng6 earlier in the lab, there was no need for me to type in the password anymore.
 
 
 ## Step 5: Clone your fork of the repository from your Github account
