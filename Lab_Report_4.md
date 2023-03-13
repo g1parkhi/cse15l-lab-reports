@@ -66,6 +66,7 @@ Finally, I pressed `<esc>` to opt out of the insert function and typed in `:wq`.
 After coming back to the terminal using `:wq` option, 
 I ran the test again by running `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` 
 and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`.
+
 -> this time, I pressed `<up><up><up><enter>` and `<up><up><up><up><enter>`to make use of bash history, expediting the process.
 As shown above in the image, the tests passed this time. (demonstrated that they now succeed)
 
