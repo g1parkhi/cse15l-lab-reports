@@ -1,5 +1,8 @@
 # Lab Report 4
 
+> This lab report covers steps 4-9 for lab tasks.
+> Hence, the lab7 repository is forked before Step 4. 
+
 ## Step 4: Log into ieng6
 
 ![Image](41.png)
