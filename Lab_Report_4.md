@@ -1,17 +1,15 @@
 # Lab Report 4
 
-## Step 4
+## Step 4: Log into ieng6
 
-> Log into ieng6
 ![Image](41.png)
 As shown on the image above, I logged into ieng6 account.
 
 * I ran the `ssh cs15lwi23auf@ieng6.ucsd.edu` command as usual and pressed `<enter>` to do so.
 
 
-## Step 5
+## Step 5: Clone your fork of the repository from your Github account
 
-> Clone your fork of the repository from your Github account
 ![Image](44444.png)
 I typed in `git clone git@github.com:g1parkhi/lab7.git` to clone my fork of the repository from my Github account.
 
@@ -22,9 +20,8 @@ I typed in `git clone git@github.com:g1parkhi/lab7.git` to clone my fork of the 
 * As shown on the image above, the cloning was successful.
 
 
-## Step 6
+## Step 6: > Run the tests, demonstrating that they fail
 
-> Run the tests, demonstrating that they fail
 ![Image](42.png)
 I typed in `cd lab7` first to change the current working directory to lab7.
 Then, I ran `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command and 
@@ -36,9 +33,8 @@ to compile and run the tests.
 * As shown on the image above, the test failed. (demonstrated)
 
 
-## Step 7
+## Step 7: Edit the code file to fix the failing test
 
-> Edit the code file to fix the failing test
 ![Image](43.png)
 I typed in `vim ListExamples.java` in order to edit the code file.
 (I typed until `vim L` and used `<tab>` to auto-complete the `ListExamples` part)
@@ -59,9 +55,8 @@ Finally, I pressed `<esc>` to opt out of the insert function and typed in `:wq`.
 * `:wq` option in vim allows me to save all the changes I made in the code and exit the vim.
 
 
-## Step 8
+## Step 8: Run the tests, demonstrating that they now succeed
 
-> Run the tests, demonstrating that they now succeed
 ![Image](47.png)
 After coming back to the terminal using `:wq` option, 
 I ran the test again by running `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` 
@@ -70,9 +65,8 @@ and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.
 As shown above in the image, the tests passed this time. (demonstrated that they now succeed)
 
 
-## Step 9
+## Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-> Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![Image](48.png)
 First, I typed in `git add ListExamples.java` command to add the corrected file (which is ListExamples.java).
 -> I only typed until `git add L` and used `<tab>` to auto-complete the `ListExamples` part
