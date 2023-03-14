@@ -89,7 +89,7 @@ Usage)
 The usage of option '-I' is that it not only enables users to search for words regardless of them being an uppercase or lowercase,
 but also it allows user to type in both the uppercase and lowercase for a search pattern.
 The reason '-I' command is useful is because it effectively alleviates the pain of manual labor. The user can search for the words
-no matter what the case of the search words are. In addition, the case of found words doesn't matter eaither.
+no matter what the case of the search words are. In addition, the case of found words doesn't matter either.
 These functions could easily be referred to as an automation that hugely expedites the searching process. 
 
 Reference: 'man less' command, ChatGPT
