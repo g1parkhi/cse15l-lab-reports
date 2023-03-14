@@ -67,7 +67,8 @@ After coming back to the terminal using `:wq` option,
 I ran the test again by running `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` 
 and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`.
 
--> this time, I pressed `<up><up><up><enter>` and `<up><up><up><up><enter>`to make use of bash history, expediting the process.
+-> this time, I pressed `<up><up><up><enter>` for compile command and `<up><up><up><enter>` for run command to make use of bash history, 
+expediting the process.
 As shown above in the image, the tests passed this time. (demonstrated that they now succeed)
 
 
@@ -86,9 +87,9 @@ I chose to write down "corrected" as my commit message.
   descriptive commit message that the user can write down.
 
 Lastly, I ran `git push origin main` command, pushing the committed changes in ListExamples.java file to main branch
-in origin repository.
+of the remote repository.
 
-* `git push origin main` command is used to push the committed changes made in file to remote repository's specific branch.
+* `git push origin <branch>` command is used to push the committed changes made in file to the remote repository with the specific branch name.
 
 As shown in the image above, the process was successful.
 
