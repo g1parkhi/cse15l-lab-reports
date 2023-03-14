@@ -123,7 +123,7 @@ less -J ./written_2/non-fiction/OUP/Castro/chV.txt
 > Output
 ![Image](56.png)
 
-In this example, I used '-i' option again for 'less' command.
+In this example, I used '-J' option again for 'less' command.
 The option basically generates a status column at the left edge of the vsCode screen.
 Whenever there's a match between the text and the recently searched word, the status column is displayed on the left.
 As shown on the image above, I searched for 'a' and the status columns were made at the left edge of the screen.
