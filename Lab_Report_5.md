@@ -129,7 +129,7 @@ Whenever there's a match between the text and the recently searched word, the st
 As shown on the image above, I searched for 'a' and the status columns were made at the left edge of the screen.
 
 Usage)
-The usage of option '-J' is that creates a status column at the left side of the vsCode screen,
+The usage of option '-J' is that it creates a status column at the left side of the vsCode screen,
 making the matches between the search words and texts far more visible and noticeable.
 The reason '-J' command is useful is because it not only highlights the search results but alerts the user where the 
 search results were yielded. 
