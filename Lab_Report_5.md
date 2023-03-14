@@ -131,9 +131,9 @@ As shown on the image above, I searched for 'a' and the status columns were made
 Usage)
 The usage of option '-J' is that it creates a status column at the left side of the vsCode screen,
 making the matches between the search words and texts far more visible and noticeable.
-The reason '-J' command is useful is because it not only highlights the search results but alerts the user where the 
-search results were yielded. 
-This makes the searching for users far more easy to spot and read.
+The reason '-J' command is useful is because it not only highlights the search results but also alerts the user where the 
+search results were found. 
+This makes the search results far easier to spot and read for users.
 
 Reference: 'man less' command, ChatGPT
 
