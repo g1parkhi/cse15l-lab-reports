@@ -44,7 +44,7 @@ Usage)
 The usage of option '-i' is that it allows user to search for a word easily regardless of it being an uppercase or lowercase.
 The reason '-i' command is useful is because it works like a search engine that can promptly search specific words whether they
 are in uppercase or lowercase. When the user needs to do a comprehensive searching, this could definitely come in handy and save
-al ot of time.
+a lot of time.
 However, '-i' command bears a limitation. If the user types in an uppercase word in the search pattern, it would only search for 
 that typed in uppercase word (and not the lowercase version of the typed in word). This limitation could be overcome through another 
 option, which is Option 2.
