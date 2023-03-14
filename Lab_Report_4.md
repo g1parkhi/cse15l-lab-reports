@@ -88,7 +88,7 @@ I chose to write down "corrected" as my commit message.
 Lastly, I ran `git push origin main` command, pushing the committed changes in ListExamples.java file to main branch
 in origin repository.
 
-* `git push origin main"` command is used to push the committed changes made in file to remote repository's specific branch.
+* `git push origin main` command is used to push the committed changes made in file to remote repository's specific branch.
 
 As shown in the image above, the process was successful.
 
