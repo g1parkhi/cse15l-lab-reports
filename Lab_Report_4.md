@@ -93,7 +93,7 @@ in origin repository.
 As shown in the image above, the process was successful.
 
 ![Image](410.png)
-I checked the github repository. As shown, my commit message is displayed next to the modified ListExamples.java file.
+I checked the github repository. As shown above, my commit message is displayed next to the modified ListExamples.java file.
 
 ![Image](411.png)
 I can see that `index1` was changed to `index2` at line 43 as intended. This proves again that commit and push were successful.
