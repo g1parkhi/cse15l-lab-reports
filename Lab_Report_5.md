@@ -66,7 +66,7 @@ less -I ./written_2/non-fiction/OUP/Castro/chA.txt
 ![Image](53.png)
 
 In this example, I used '-I' option for 'less' command.
-The option causes searches to ignore case, which is a similar function of the of the '-i' option. However, this time, even if 
+The option causes searches to ignore case, which is a similar function of the '-i' option. However, this time, even if 
 I type in 'He' which contains an uppercase letter, both 'he' and 'He' will be searched.
 The image above demonstrates it.
 
@@ -81,7 +81,7 @@ less -I ./written_2/non-fiction/OUP/Castro/chB.txt
 ![Image](54.png)
 
 In this example, I used '-I' option again for 'less' command.
-The option causes searches to ignore case, which is a similar function of the of the '-i' option. However, this time, even if 
+The option causes searches to ignore case, which is a similar function of the '-i' option. However, this time, even if 
 I type in 'A' which contains an uppercase letter, both 'A' and 'a' will be searched.
 The image above demonstrates it.
 
